@@ -23,4 +23,4 @@ select id,country,population,area,migrants,fertility,medianage,urbanpopulation
 from t;
 drop table t;
 
-![screenshot of table](question1picture.png)
+![screenshot of table](question1picture.PNG)
